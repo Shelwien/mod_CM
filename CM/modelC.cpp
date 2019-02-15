@@ -15,7 +15,7 @@
 #include "holder_m.inc"
 
 //#include "sh_mapping.inc"
-#include "MOD\sh_model_h.inc"
+#include "sh_model_h.inc"
 
 struct ModelC : Coroutine {
 
